@@ -4,7 +4,7 @@
 
 ## 第一部分 Python基础
 
-[Git常用命令](note/git.md)
+[Git常用命令](notes/git.md)
 
 ## 第二部分 Web开发
 
